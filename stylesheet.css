@@ -34,5 +34,5 @@ header {
     flex-wrap: wrap;
 }
 .twitter-tweet {
-    width: 300px;
+    margin: 10px auto;
 }
