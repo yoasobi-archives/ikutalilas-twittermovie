@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    margin: 0;
+    background-color: #ff8796;
+}
+.container {
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+header {
+    background-color: #f2285a;
+    height: 65px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+.header-center {
+    text-align: center;
+    display: block;
+}
+.header-center h1 {
+    margin: 0;
+    line-height: 65px;
+}
+
+.contents .container{
+    padding-top: 65px;
+    display: flex;
+    flex-wrap: wrap;
+}
