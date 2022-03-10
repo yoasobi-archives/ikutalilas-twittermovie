@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
 }
 header {
-    background-color: #f2285a;
+    background-color: rgba(242,40,90,0.9);
     height: 65px;
     width: 100%;
     font-size: 21px;
