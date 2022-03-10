@@ -33,3 +33,7 @@ header {
     display: flex;
     flex-wrap: wrap;
 }
+.twitter-tweet {
+    width: 320px;
+    height: 400px;
+}
