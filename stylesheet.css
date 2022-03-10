@@ -37,3 +37,14 @@ header {
 .twitter-tweet {
     margin: 10px auto;
 }
+
+@media (prefer-color-scheme: light) {
+    .darkmode {
+        display: none;
+    }
+}
+@media (prefer-color-scheme: dark) {
+    .lightmode {
+        display: none;
+    }
+}
