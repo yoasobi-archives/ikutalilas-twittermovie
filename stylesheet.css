@@ -15,6 +15,7 @@ header {
     background-color: #f2285a;
     height: 65px;
     width: 100%;
+    font-size: 21px;
     position: fixed;
     top: 0;
     z-index: 10;
@@ -36,4 +37,17 @@ header {
 }
 .twitter-tweet {
     margin: 10px auto;
+}
+
+@media (max-width: 670px) {
+  header {
+    height: 50px;
+    font-size: 16px;
+  }
+  .contents .container{
+      padding-top: 50px;
+  }
+  .header-center h1 {
+      line-height: 50px;
+  }
 }
