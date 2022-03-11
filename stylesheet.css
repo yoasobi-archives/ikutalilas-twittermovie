@@ -42,7 +42,7 @@ header {
 @media (max-width: 670px) {
   header {
     height: 50px;
-    font-size: 1px;
+    font-size: 14px;
   }
   .contents .container{
       padding-top: 50px;
