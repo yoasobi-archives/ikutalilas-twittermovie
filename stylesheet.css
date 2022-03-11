@@ -54,6 +54,6 @@ header {
 
 @media (max-width: 360px) {
     header {
-        font-size: 12px;
+        font-size: 10px;
     }
 }
