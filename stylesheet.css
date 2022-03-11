@@ -52,7 +52,7 @@ header {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 374px) {
   header {
     height: 40px;
     font-size: 11px;
